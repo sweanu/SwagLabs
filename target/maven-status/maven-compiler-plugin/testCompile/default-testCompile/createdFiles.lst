@@ -1,0 +1,4 @@
+stepDefinitions\LoginStepDefinition.class
+stepDefinitions\Hooks.class
+stepDefinitions\AddToCartSd.class
+stepDefinitions\TestRunnerSd.class
